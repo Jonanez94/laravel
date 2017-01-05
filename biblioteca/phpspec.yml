@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Biblio
+        psr4_prefix: Biblio
+        src_path: app

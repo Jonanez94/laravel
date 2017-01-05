@@ -1,0 +1,13 @@
+body {
+    background-image: url("/images/wallpaper.jpg");
+}
+
+.footer{
+	height: 25px; 
+	background:black; 
+	color: white;
+	text-align: center;
+	width:100%; 
+	bottom:0; 
+	left:0; 
+}
